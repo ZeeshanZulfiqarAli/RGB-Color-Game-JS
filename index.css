@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: 'Noto Sans JP';
+	background-color: wheat;
+	text-align: center;
+	margin: 0;
+	
+}
+h1{
+	text-transform: uppercase;
+	background-color: aqua;
+	margin: 0;
+	font-size: 20px;
+	letter-spacing: 3px;
+	transition-duration: 0.4s;
+}
+#rgb{
+	font-size: 26px;
+}
+#navbar{
+	background-color: #EFEFEF;
+}
+#success{
+	letter-spacing: 4px;
+}
+.box{
+	background-color: aqua;
+	width: 30%;
+	margin: 1.66%;
+	padding-bottom: 30%;
+	float:left;
+	border-radius: 10%;
+	transition-duration: 0.4s;
+}
+
+#boxes{
+	max-width: 500px;
+	transition-duration: 0.4s;
+	margin: 0 auto;
+}
